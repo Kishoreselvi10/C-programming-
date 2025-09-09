@@ -1,0 +1,10 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+int main()
+{
+ printf("Kishore s\n");
+ printf("1/64, Naduputhur\n");
+ printf("Neikkarapatty\n");
+ printf("salem-636010\n");
+    return 0;
+}

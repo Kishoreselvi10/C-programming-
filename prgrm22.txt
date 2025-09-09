@@ -1,0 +1,10 @@
+// Online C compiler to run C program online
+#include <stdio.h>
+int main()
+{
+ char grp[100];
+printf("enter your blood group:");
+scanf("%s",grp);
+printf("your blood group is:%s",grp);
+    return 0;
+}
